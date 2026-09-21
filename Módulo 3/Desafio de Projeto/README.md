@@ -15,7 +15,7 @@ A conexão entre Power BI e MySQL local foi feita via **driver ODBC** (MySQL Con
 | Arquivo | Descrição |
 |---|---|
 | [`script_bd_company.sql`](./script_bd_company.sql) | DDL completo: schema, tabelas, constraints, chaves primárias/estrangeiras |
-| [`insercao_de_dados_e_queries_sql.sql`](./insercao_de_dados_e_queries_sql.sql) | Carga de dados (INSERT) e queries de validação |
+| [`insercao_de_dados_e_queries_sql.sql`]([./insercao_de_dados_e_queries_sql.sql](https://github.com/LeticiaPaesano/power-bi-dashboard-vendas/blob/main/M%C3%B3dulo%203/Desafio%20de%20Projeto/insercao_de_dados_e_queries.sql)) | Carga de dados (INSERT) e queries de validação |
 | [`desenvolvimento_power_bi_company_local.pbix`](./desenvolvimento_power_bi_company_local.pbix) | Modelo Power BI completo: transformações no Power Query e relacionamentos |
 
 ## 🖼️ Modelo de Dados Final
