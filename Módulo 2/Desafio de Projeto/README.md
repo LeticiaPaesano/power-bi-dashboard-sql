@@ -45,6 +45,33 @@ A segunda página do relatório é dedicada à análise aprofundada da margem de
 
 ---
 
+## 📊 Leitura Profissional e Diagnóstico de Negócio
+
+### 1. Desempenho Geral de Vendas (Sales Report)
+* **Volume Comercializado e Receita:** O volume total bruto atingiu **$118,73 Mi**, com um volume físico de **1,13 Mi de unidades vendidas**.
+* **Margem Bruta Operacional:** O COGS (Custo das Mercadorias Vendidas) representou **$101,83 Mi** (~85,7% da receita bruta). Após a concessão de **$9,21 Mi em descontos**, o lucro líquido consolidado encerrou em **$16,89 Mi**, resultando em uma margem de lucro líquida sobre as vendas de aproximadamente **14,2%**.
+* **Sazonalidade e Tendência:** A análise do gráfico temporal revela uma forte concentração de receita no **último trimestre do ano (Q4)**, apresentando pico expressivo em **outubro (~$20 Mi)** e manutenção em níveis elevados até dezembro. Os primeiros três trimestres mantiveram-se estáveis e em patamares substancialmente menores.
+* **Concentração por Segmento:** O segmento **Government** é o principal *driver* de receita do negócio, respondendo por **$52,5 Mi (44,22%)** das vendas totais, seguido por **Small Business ($42,43 Mi / 35,74%)**. Juntos, esses dois segmentos dominam cerca de **80% de todo o volume comercial**.
+* **Performance de Produtos:** O produto **Paseo** lidera isoladamente as vendas com **$33 Mi**, seguido por **VTT ($21 Mi)** e **Velo ($18 Mi)**.
+* **Distribuição Geográfica:** O mercado dos **Estados Unidos** lidera em volume de receita, seguido por **Canadá** e **França**, demonstrando a relevância do mercado norte-americano na composição global das vendas.
+
+---
+
+### 2. Análise Detalhada de Lucratividade (Profit Report)
+* **Distribuição Geográfica do Lucro (Árvore de Decomposição):** No exercício de 2014, dos **$13,01 Mi** de lucro apurados:
+  - **França** liderou a contribuição com **$2,97 Mi** (~22,8%).
+  - **Canadá** ficou em segundo com **$2,73 Mi** (~21,0%).
+  - **Alemanha** (**$2,56 Mi**), **EUA** (**$2,44 Mi**) e **México** (**$2,31 Mi**) apresentaram contribuições equilibradas.
+* **Eficiência do Lucro por Produto (Radar):** Embora o produto **Paseo** lidere em vendas absolutas, a análise do gráfico de radar indica que a sua margem de contribuição para o lucro também é predominante, mantendo correlação direta entre volume de vendas e rentabilidade.
+* **Evolução Trimestral do Lucro (Gráfico de Cascata / Waterfall):** O acumulado do lucro teve sua maior aceleração no segundo semestre:
+  - **Q1:** $2,6 Mi
+  - **Q2:** $3,2 Mi
+  - **Q3:** $2,7 Mi
+  - **Q4:** **$4,4 Mi** (maior salto incremental do ano)
+  - **Total Acumulado:** **$13,0 Mi** no período analisado.
+
+  ---
+  
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
 - **Power BI Desktop:** Construção do modelo de dados, métricas DAX, criação do layout e bookmarks.
